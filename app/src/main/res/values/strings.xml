@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="Welcome">Welcome To Maps</string>
+    <string name="Load">Load Maps</string>
+</resources>
